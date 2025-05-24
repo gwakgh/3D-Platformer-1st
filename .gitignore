@@ -1,0 +1,11 @@
+# UE5 관련 무시 파일
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.VC.db
+*.sdf
+*.opensdf
+*.sln
+*.suo
