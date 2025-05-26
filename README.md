@@ -5,7 +5,7 @@
 블루프린트 기반으로 캐릭터 점프, 이동, 장애물, 컷신 등을 구현했습니다.
 
 [![IMAGE ALT TEXT HERE](https://velog.velcdn.com/images/gwakgh/post/d3bae03b-5c76-492d-80aa-ed4dbe0f24eb/image.PNG
-)](https://youtu.be/oX2OUy_9Lw0?si=DQdp2NQab4Xs4xqz)영상을 클릭하면 [영상](https://www.youtube.com/watch?v=nR15HqSaDPI)으로 넘어갑니다.
+)](https://youtu.be/oX2OUy_9Lw0?si=DQdp2NQab4Xs4xqz)영상을 클릭하면 [영상](https://youtu.be/nR15HqSaDPI?si=SpB41AolLfpzCzph)으로 넘어갑니다.
 
 
 ## 📦 프로젝트 정보
