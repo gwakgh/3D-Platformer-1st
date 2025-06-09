@@ -1,11 +1,12 @@
-# UE5 관련 무시 파일
+# 언리얼 엔진에서 불필요한 파일 제외
+*.log
+*.db
+*.sdf
+*.suo
+*.user
+.vs/
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-.vscode/
-*.VC.db
-*.sdf
-*.opensdf
-*.sln
-*.suo
+Build/
